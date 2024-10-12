@@ -23,3 +23,13 @@ console.log(++age)
 console.log(age)
 
 console.log (12 === 12 ? "number is 12" : "it is not a number")
+
+
+function printname (name) {
+    const message = name + " is a student of Thrive Africa"
+    console.log(message)
+    }
+    
+    printname('Charles')
+    printname('Michael')
+    printname('Eunice')
